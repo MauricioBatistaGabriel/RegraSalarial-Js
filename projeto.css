@@ -1,0 +1,14 @@
+#nome{
+    margin-top:20px;
+    margin-left:12px;
+}
+
+#valorHora, #qntdTrab{
+    margin-left:12px;
+    margin-top:5px;
+}
+
+#btnCalcular{
+    margin-top:8px;
+    margin-left:14px;
+}
